@@ -12,7 +12,7 @@ class SimulationConfig:
     """
     Configuration for simulation parameters and Prisoner's Dilemma payoff matrix.
     """
-    NUM_AGENTS: int = 50  #: Number of agents in the population
+    NUM_AGENTS: int = 100  #: Number of agents in the population
     NUM_EPOCHS: int = 100  #: Number of generations/epochs
     ITERATIONS_PER_COMPETITION: int = 10  #: Number of rounds in each Prisoner's Dilemma game
 
@@ -27,10 +27,13 @@ class SimulationConfig:
     # Payoff (My_Score, Enemy_Score)
     # C = Cooperate, D = Defect
     # (My Choice, Enemy Choice) : (My Payoff, Enemy Payoff)
-    PAYOFF_CC: Tuple[int, int] = (3, 3)  #: Both Cooperate: Reward for mutual cooperation
-    PAYOFF_CD: Tuple[int, int] = (0, 5)  #: I Cooperate, Enemy Defects
-    PAYOFF_DC: Tuple[int, int] = (5, 0)  #: I Defect, Enemy Cooperates
-    PAYOFF_DD: Tuple[int, int] = (1, 1)  #: Both Defect: Punishment for mutual defection
+    PAYOFF_CC: Tuple[int, int] = (1, 1)  #: Both Cooperate: Reward for mutual cooperation
+    PAYOFF_CD: Tuple[int, int] = (0, 2)  #: I Cooperate, Enemy Defects
+    PAYOFF_DC: Tuple[int, int] = (2, 0)  #: I Defect, Enemy Cooperates
+    PAYOFF_DD: Tuple[int, int] = (0, 0)  #: Both Defect: Punishment for mutual defection
+
+    # Simulation mode: 'evolutionary' or 'rl'
+    MODE: str = 'rl'  #: Set to 'rl' for pure RL mode, 'evolutionary' for genetic algorithm
 
     @staticmethod
     def get_payoff(my_choice: str, enemy_choice: str) -> Tuple[int, int]:

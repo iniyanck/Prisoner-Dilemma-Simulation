@@ -1,11 +1,12 @@
 """
 PyTorch-based NeuralNetwork class for GPU acceleration.
-Replaces NumPy implementation with torch and supports CUDA.
+Replaces NumPy implementation with torch and supports CUDA, mixed precision, and JIT.
 """
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
 from typing import List, Tuple, Optional, Union
+import sys
 
 class NeuralNetwork(nn.Module):
     def __init__(self, input_dim: int, hidden_layers: List[int], output_dim: int, activation_function: str = 'relu'):
@@ -25,18 +26,28 @@ class NeuralNetwork(nn.Module):
         layers.append(nn.Linear(last_dim, output_dim))
         self.model = nn.Sequential(*layers)
         self.to(self.device)
+        # JIT compile if available (PyTorch 2.0+) and not on Windows
+        try:
+            if sys.platform != 'win32':
+                self.model = torch.compile(self.model)
+        except Exception:
+            pass
 
     def forward(self, x: torch.Tensor) -> torch.Tensor:
         return self.model(x)
 
-    def predict(self, inputs: Union[List[float], torch.Tensor]) -> torch.Tensor:
+    def predict(self, inputs: Union[List[float], torch.Tensor], use_amp: bool = False) -> torch.Tensor:
         if not isinstance(inputs, torch.Tensor):
             inputs = torch.tensor(inputs, dtype=torch.float32)
         if inputs.ndim == 1:
             inputs = inputs.unsqueeze(0)
         inputs = inputs.to(self.device)
         with torch.no_grad():
-            output = self.forward(inputs)
+            if use_amp and self.device.type == 'cuda':
+                with torch.cuda.amp.autocast():
+                    output = self.forward(inputs)
+            else:
+                output = self.forward(inputs)
         return output.cpu().squeeze(0)
 
     def mutate(self, mutation_rate: float) -> None:
