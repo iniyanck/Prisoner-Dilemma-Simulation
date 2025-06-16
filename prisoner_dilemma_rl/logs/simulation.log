@@ -1,0 +1,636 @@
+2025-06-16 19:01:33 [INFO] Starting Prisoner's Dilemma Reinforcement Learning Simulation...
+2025-06-16 19:01:33 [INFO] Initial population size: 50
+2025-06-16 19:01:33 [INFO] Running for 100 epochs...
+2025-06-16 19:01:33 [INFO] --- Epoch 1/100 ---
+2025-06-16 19:01:34 [INFO] Epoch complete. Top agent score: 30
+2025-06-16 19:01:34 [INFO] Selected 10 top agents for reproduction.
+2025-06-16 19:01:34 [INFO] Created 40 new agents through reproduction.
+2025-06-16 19:01:34 [INFO] Mutated current generation.
+2025-06-16 19:01:34 [INFO] Top agent's score in epoch 1: 30 (ID: 02944940...)
+2025-06-16 19:01:34 [INFO] --- Epoch 2/100 ---
+2025-06-16 19:01:35 [INFO] Epoch complete. Top agent score: 31
+2025-06-16 19:01:35 [INFO] Selected 10 top agents for reproduction.
+2025-06-16 19:01:35 [INFO] Created 40 new agents through reproduction.
+2025-06-16 19:01:35 [INFO] Mutated current generation.
+2025-06-16 19:01:35 [INFO] Top agent's score in epoch 2: 31 (ID: 02944940...)
+2025-06-16 19:01:35 [INFO] --- Epoch 3/100 ---
+2025-06-16 19:01:36 [INFO] Epoch complete. Top agent score: 31
+2025-06-16 19:01:36 [INFO] Selected 10 top agents for reproduction.
+2025-06-16 19:01:36 [INFO] Created 40 new agents through reproduction.
+2025-06-16 19:01:36 [INFO] Mutated current generation.
+2025-06-16 19:01:36 [INFO] Top agent's score in epoch 3: 31 (ID: 02944940...)
+2025-06-16 19:01:36 [INFO] --- Epoch 4/100 ---
+2025-06-16 19:01:37 [INFO] Epoch complete. Top agent score: 32
+2025-06-16 19:01:37 [INFO] Selected 10 top agents for reproduction.
+2025-06-16 19:01:37 [INFO] Created 40 new agents through reproduction.
+2025-06-16 19:01:37 [INFO] Mutated current generation.
+2025-06-16 19:01:37 [INFO] Top agent's score in epoch 4: 32 (ID: 02944940...)
+2025-06-16 19:01:37 [INFO] --- Epoch 5/100 ---
+2025-06-16 19:01:38 [INFO] Epoch complete. Top agent score: 33
+2025-06-16 19:01:38 [INFO] Selected 10 top agents for reproduction.
+2025-06-16 19:01:38 [INFO] Created 40 new agents through reproduction.
+2025-06-16 19:01:38 [INFO] Mutated current generation.
+2025-06-16 19:01:38 [INFO] Top agent's score in epoch 5: 33 (ID: 02944940...)
+2025-06-16 19:01:38 [INFO] --- Epoch 6/100 ---
+2025-06-16 19:01:39 [INFO] Epoch complete. Top agent score: 34
+2025-06-16 19:01:39 [INFO] Selected 10 top agents for reproduction.
+2025-06-16 19:01:39 [INFO] Created 40 new agents through reproduction.
+2025-06-16 19:01:39 [INFO] Mutated current generation.
+2025-06-16 19:01:39 [INFO] Top agent's score in epoch 6: 34 (ID: 02944940...)
+2025-06-16 19:01:39 [INFO] --- Epoch 7/100 ---
+2025-06-16 19:01:40 [INFO] Epoch complete. Top agent score: 35
+2025-06-16 19:01:40 [INFO] Selected 10 top agents for reproduction.
+2025-06-16 19:01:40 [INFO] Created 40 new agents through reproduction.
+2025-06-16 19:01:40 [INFO] Mutated current generation.
+2025-06-16 19:01:40 [INFO] Top agent's score in epoch 7: 35 (ID: 02944940...)
+2025-06-16 19:01:40 [INFO] --- Epoch 8/100 ---
+2025-06-16 19:01:41 [INFO] Epoch complete. Top agent score: 36
+2025-06-16 19:01:41 [INFO] Selected 10 top agents for reproduction.
+2025-06-16 19:01:41 [INFO] Created 40 new agents through reproduction.
+2025-06-16 19:01:41 [INFO] Mutated current generation.
+2025-06-16 19:01:41 [INFO] Top agent's score in epoch 8: 36 (ID: 02944940...)
+2025-06-16 19:01:41 [INFO] --- Epoch 9/100 ---
+2025-06-16 19:01:42 [INFO] Epoch complete. Top agent score: 37
+2025-06-16 19:01:42 [INFO] Selected 10 top agents for reproduction.
+2025-06-16 19:01:42 [INFO] Created 40 new agents through reproduction.
+2025-06-16 19:01:42 [INFO] Mutated current generation.
+2025-06-16 19:01:42 [INFO] Top agent's score in epoch 9: 37 (ID: 02944940...)
+2025-06-16 19:01:42 [INFO] --- Epoch 10/100 ---
+2025-06-16 19:01:43 [INFO] Epoch complete. Top agent score: 37
+2025-06-16 19:01:43 [INFO] Selected 10 top agents for reproduction.
+2025-06-16 19:01:43 [INFO] Created 40 new agents through reproduction.
+2025-06-16 19:01:43 [INFO] Mutated current generation.
+2025-06-16 19:01:43 [INFO] Top agent's score in epoch 10: 37 (ID: 02944940...)
+2025-06-16 19:01:43 [INFO] --- Epoch 11/100 ---
+2025-06-16 19:01:43 [INFO] Epoch complete. Top agent score: 37
+2025-06-16 19:01:43 [INFO] Selected 10 top agents for reproduction.
+2025-06-16 19:01:44 [INFO] Created 40 new agents through reproduction.
+2025-06-16 19:01:44 [INFO] Mutated current generation.
+2025-06-16 19:01:44 [INFO] Top agent's score in epoch 11: 37 (ID: 02944940...)
+2025-06-16 19:01:44 [INFO] --- Epoch 12/100 ---
+2025-06-16 19:01:45 [INFO] Epoch complete. Top agent score: 37
+2025-06-16 19:01:45 [INFO] Selected 10 top agents for reproduction.
+2025-06-16 19:01:45 [INFO] Created 40 new agents through reproduction.
+2025-06-16 19:01:45 [INFO] Mutated current generation.
+2025-06-16 19:01:45 [INFO] Top agent's score in epoch 12: 37 (ID: 02944940...)
+2025-06-16 19:01:45 [INFO] --- Epoch 13/100 ---
+2025-06-16 19:01:45 [INFO] Epoch complete. Top agent score: 37
+2025-06-16 19:01:45 [INFO] Selected 10 top agents for reproduction.
+2025-06-16 19:01:45 [INFO] Created 40 new agents through reproduction.
+2025-06-16 19:01:45 [INFO] Mutated current generation.
+2025-06-16 19:01:45 [INFO] Top agent's score in epoch 13: 37 (ID: 02944940...)
+2025-06-16 19:01:45 [INFO] --- Epoch 14/100 ---
+2025-06-16 19:01:46 [INFO] Epoch complete. Top agent score: 37
+2025-06-16 19:01:46 [INFO] Selected 10 top agents for reproduction.
+2025-06-16 19:01:46 [INFO] Created 40 new agents through reproduction.
+2025-06-16 19:01:46 [INFO] Mutated current generation.
+2025-06-16 19:01:46 [INFO] Top agent's score in epoch 14: 37 (ID: 02944940...)
+2025-06-16 19:01:46 [INFO] --- Epoch 15/100 ---
+2025-06-16 19:01:47 [INFO] Epoch complete. Top agent score: 39
+2025-06-16 19:01:47 [INFO] Selected 10 top agents for reproduction.
+2025-06-16 19:01:47 [INFO] Created 40 new agents through reproduction.
+2025-06-16 19:01:47 [INFO] Mutated current generation.
+2025-06-16 19:01:47 [INFO] Top agent's score in epoch 15: 39 (ID: 449ea823...)
+2025-06-16 19:01:47 [INFO] --- Epoch 16/100 ---
+2025-06-16 19:01:48 [INFO] Epoch complete. Top agent score: 39
+2025-06-16 19:01:48 [INFO] Selected 10 top agents for reproduction.
+2025-06-16 19:01:48 [INFO] Created 40 new agents through reproduction.
+2025-06-16 19:01:48 [INFO] Mutated current generation.
+2025-06-16 19:01:48 [INFO] Top agent's score in epoch 16: 39 (ID: 449ea823...)
+2025-06-16 19:01:48 [INFO] --- Epoch 17/100 ---
+2025-06-16 19:01:49 [INFO] Epoch complete. Top agent score: 39
+2025-06-16 19:01:49 [INFO] Selected 10 top agents for reproduction.
+2025-06-16 19:01:49 [INFO] Created 40 new agents through reproduction.
+2025-06-16 19:01:49 [INFO] Mutated current generation.
+2025-06-16 19:01:49 [INFO] Top agent's score in epoch 17: 39 (ID: 449ea823...)
+2025-06-16 19:01:49 [INFO] --- Epoch 18/100 ---
+2025-06-16 19:01:50 [INFO] Epoch complete. Top agent score: 39
+2025-06-16 19:01:50 [INFO] Selected 10 top agents for reproduction.
+2025-06-16 19:01:50 [INFO] Created 40 new agents through reproduction.
+2025-06-16 19:01:50 [INFO] Mutated current generation.
+2025-06-16 19:01:50 [INFO] Top agent's score in epoch 18: 39 (ID: 449ea823...)
+2025-06-16 19:01:50 [INFO] --- Epoch 19/100 ---
+2025-06-16 19:01:51 [INFO] Epoch complete. Top agent score: 39
+2025-06-16 19:01:51 [INFO] Selected 10 top agents for reproduction.
+2025-06-16 19:01:51 [INFO] Created 40 new agents through reproduction.
+2025-06-16 19:01:51 [INFO] Mutated current generation.
+2025-06-16 19:01:51 [INFO] Top agent's score in epoch 19: 39 (ID: 449ea823...)
+2025-06-16 19:01:51 [INFO] --- Epoch 20/100 ---
+2025-06-16 19:01:52 [INFO] Epoch complete. Top agent score: 39
+2025-06-16 19:01:52 [INFO] Selected 10 top agents for reproduction.
+2025-06-16 19:01:52 [INFO] Created 40 new agents through reproduction.
+2025-06-16 19:01:52 [INFO] Mutated current generation.
+2025-06-16 19:01:52 [INFO] Top agent's score in epoch 20: 39 (ID: 449ea823...)
+2025-06-16 19:01:52 [INFO] --- Epoch 21/100 ---
+2025-06-16 19:01:53 [INFO] Epoch complete. Top agent score: 39
+2025-06-16 19:01:53 [INFO] Selected 10 top agents for reproduction.
+2025-06-16 19:01:53 [INFO] Created 40 new agents through reproduction.
+2025-06-16 19:01:53 [INFO] Mutated current generation.
+2025-06-16 19:01:53 [INFO] Top agent's score in epoch 21: 39 (ID: 449ea823...)
+2025-06-16 19:01:53 [INFO] --- Epoch 22/100 ---
+2025-06-16 19:01:54 [INFO] Epoch complete. Top agent score: 39
+2025-06-16 19:01:54 [INFO] Selected 10 top agents for reproduction.
+2025-06-16 19:01:54 [INFO] Created 40 new agents through reproduction.
+2025-06-16 19:01:54 [INFO] Mutated current generation.
+2025-06-16 19:01:54 [INFO] Top agent's score in epoch 22: 39 (ID: 449ea823...)
+2025-06-16 19:01:54 [INFO] --- Epoch 23/100 ---
+2025-06-16 19:01:55 [INFO] Epoch complete. Top agent score: 39
+2025-06-16 19:01:55 [INFO] Selected 10 top agents for reproduction.
+2025-06-16 19:01:55 [INFO] Created 40 new agents through reproduction.
+2025-06-16 19:01:55 [INFO] Mutated current generation.
+2025-06-16 19:01:55 [INFO] Top agent's score in epoch 23: 39 (ID: 449ea823...)
+2025-06-16 19:01:55 [INFO] --- Epoch 24/100 ---
+2025-06-16 19:01:56 [INFO] Epoch complete. Top agent score: 40
+2025-06-16 19:01:56 [INFO] Selected 10 top agents for reproduction.
+2025-06-16 19:01:56 [INFO] Created 40 new agents through reproduction.
+2025-06-16 19:01:56 [INFO] Mutated current generation.
+2025-06-16 19:01:56 [INFO] Top agent's score in epoch 24: 40 (ID: 6b6f9a88...)
+2025-06-16 19:01:56 [INFO] --- Epoch 25/100 ---
+2025-06-16 19:01:57 [INFO] Epoch complete. Top agent score: 42
+2025-06-16 19:01:57 [INFO] Selected 10 top agents for reproduction.
+2025-06-16 19:01:57 [INFO] Created 40 new agents through reproduction.
+2025-06-16 19:01:57 [INFO] Mutated current generation.
+2025-06-16 19:01:57 [INFO] Top agent's score in epoch 25: 42 (ID: 5ab16e54...)
+2025-06-16 19:01:57 [INFO] --- Epoch 26/100 ---
+2025-06-16 19:01:58 [INFO] Epoch complete. Top agent score: 42
+2025-06-16 19:01:58 [INFO] Selected 10 top agents for reproduction.
+2025-06-16 19:01:58 [INFO] Created 40 new agents through reproduction.
+2025-06-16 19:01:58 [INFO] Mutated current generation.
+2025-06-16 19:01:58 [INFO] Top agent's score in epoch 26: 42 (ID: 5ab16e54...)
+2025-06-16 19:01:58 [INFO] --- Epoch 27/100 ---
+2025-06-16 19:01:59 [INFO] Epoch complete. Top agent score: 41
+2025-06-16 19:01:59 [INFO] Selected 10 top agents for reproduction.
+2025-06-16 19:01:59 [INFO] Created 40 new agents through reproduction.
+2025-06-16 19:01:59 [INFO] Mutated current generation.
+2025-06-16 19:01:59 [INFO] Top agent's score in epoch 27: 41 (ID: 5ab16e54...)
+2025-06-16 19:01:59 [INFO] --- Epoch 28/100 ---
+2025-06-16 19:02:00 [INFO] Epoch complete. Top agent score: 42
+2025-06-16 19:02:00 [INFO] Selected 10 top agents for reproduction.
+2025-06-16 19:02:00 [INFO] Created 40 new agents through reproduction.
+2025-06-16 19:02:00 [INFO] Mutated current generation.
+2025-06-16 19:02:00 [INFO] Top agent's score in epoch 28: 42 (ID: 5ab16e54...)
+2025-06-16 19:02:00 [INFO] --- Epoch 29/100 ---
+2025-06-16 19:02:01 [INFO] Epoch complete. Top agent score: 40
+2025-06-16 19:02:01 [INFO] Selected 10 top agents for reproduction.
+2025-06-16 19:02:01 [INFO] Created 40 new agents through reproduction.
+2025-06-16 19:02:01 [INFO] Mutated current generation.
+2025-06-16 19:02:01 [INFO] Top agent's score in epoch 29: 40 (ID: 5ab16e54...)
+2025-06-16 19:02:01 [INFO] --- Epoch 30/100 ---
+2025-06-16 19:02:02 [INFO] Epoch complete. Top agent score: 40
+2025-06-16 19:02:02 [INFO] Selected 10 top agents for reproduction.
+2025-06-16 19:02:02 [INFO] Created 40 new agents through reproduction.
+2025-06-16 19:02:02 [INFO] Mutated current generation.
+2025-06-16 19:02:02 [INFO] Top agent's score in epoch 30: 40 (ID: 5ab16e54...)
+2025-06-16 19:02:02 [INFO] --- Epoch 31/100 ---
+2025-06-16 19:02:03 [INFO] Epoch complete. Top agent score: 41
+2025-06-16 19:02:03 [INFO] Selected 10 top agents for reproduction.
+2025-06-16 19:02:03 [INFO] Created 40 new agents through reproduction.
+2025-06-16 19:02:03 [INFO] Mutated current generation.
+2025-06-16 19:02:03 [INFO] Top agent's score in epoch 31: 41 (ID: 5ab16e54...)
+2025-06-16 19:02:03 [INFO] --- Epoch 32/100 ---
+2025-06-16 19:02:04 [INFO] Epoch complete. Top agent score: 41
+2025-06-16 19:02:04 [INFO] Selected 10 top agents for reproduction.
+2025-06-16 19:02:04 [INFO] Created 40 new agents through reproduction.
+2025-06-16 19:02:04 [INFO] Mutated current generation.
+2025-06-16 19:02:04 [INFO] Top agent's score in epoch 32: 41 (ID: 5ab16e54...)
+2025-06-16 19:02:04 [INFO] --- Epoch 33/100 ---
+2025-06-16 19:02:05 [INFO] Epoch complete. Top agent score: 43
+2025-06-16 19:02:05 [INFO] Selected 10 top agents for reproduction.
+2025-06-16 19:02:05 [INFO] Created 40 new agents through reproduction.
+2025-06-16 19:02:05 [INFO] Mutated current generation.
+2025-06-16 19:02:05 [INFO] Top agent's score in epoch 33: 43 (ID: 5ab16e54...)
+2025-06-16 19:02:05 [INFO] --- Epoch 34/100 ---
+2025-06-16 19:02:06 [INFO] Epoch complete. Top agent score: 42
+2025-06-16 19:02:06 [INFO] Selected 10 top agents for reproduction.
+2025-06-16 19:02:06 [INFO] Created 40 new agents through reproduction.
+2025-06-16 19:02:06 [INFO] Mutated current generation.
+2025-06-16 19:02:06 [INFO] Top agent's score in epoch 34: 42 (ID: 5ab16e54...)
+2025-06-16 19:02:06 [INFO] --- Epoch 35/100 ---
+2025-06-16 19:02:06 [INFO] Epoch complete. Top agent score: 42
+2025-06-16 19:02:06 [INFO] Selected 10 top agents for reproduction.
+2025-06-16 19:02:06 [INFO] Created 40 new agents through reproduction.
+2025-06-16 19:02:06 [INFO] Mutated current generation.
+2025-06-16 19:02:06 [INFO] Top agent's score in epoch 35: 42 (ID: 5ab16e54...)
+2025-06-16 19:02:06 [INFO] --- Epoch 36/100 ---
+2025-06-16 19:02:07 [INFO] Epoch complete. Top agent score: 42
+2025-06-16 19:02:07 [INFO] Selected 10 top agents for reproduction.
+2025-06-16 19:02:07 [INFO] Created 40 new agents through reproduction.
+2025-06-16 19:02:07 [INFO] Mutated current generation.
+2025-06-16 19:02:07 [INFO] Top agent's score in epoch 36: 42 (ID: 5ab16e54...)
+2025-06-16 19:02:07 [INFO] --- Epoch 37/100 ---
+2025-06-16 19:02:08 [INFO] Epoch complete. Top agent score: 43
+2025-06-16 19:02:08 [INFO] Selected 10 top agents for reproduction.
+2025-06-16 19:02:08 [INFO] Created 40 new agents through reproduction.
+2025-06-16 19:02:08 [INFO] Mutated current generation.
+2025-06-16 19:02:08 [INFO] Top agent's score in epoch 37: 43 (ID: 5ab16e54...)
+2025-06-16 19:02:08 [INFO] --- Epoch 38/100 ---
+2025-06-16 19:02:09 [INFO] Epoch complete. Top agent score: 42
+2025-06-16 19:02:09 [INFO] Selected 10 top agents for reproduction.
+2025-06-16 19:02:09 [INFO] Created 40 new agents through reproduction.
+2025-06-16 19:02:09 [INFO] Mutated current generation.
+2025-06-16 19:02:09 [INFO] Top agent's score in epoch 38: 42 (ID: 5ab16e54...)
+2025-06-16 19:02:09 [INFO] --- Epoch 39/100 ---
+2025-06-16 19:02:10 [INFO] Epoch complete. Top agent score: 43
+2025-06-16 19:02:10 [INFO] Selected 10 top agents for reproduction.
+2025-06-16 19:02:10 [INFO] Created 40 new agents through reproduction.
+2025-06-16 19:02:10 [INFO] Mutated current generation.
+2025-06-16 19:02:10 [INFO] Top agent's score in epoch 39: 43 (ID: 5ab16e54...)
+2025-06-16 19:02:10 [INFO] --- Epoch 40/100 ---
+2025-06-16 19:02:11 [INFO] Epoch complete. Top agent score: 42
+2025-06-16 19:02:11 [INFO] Selected 10 top agents for reproduction.
+2025-06-16 19:02:11 [INFO] Created 40 new agents through reproduction.
+2025-06-16 19:02:11 [INFO] Mutated current generation.
+2025-06-16 19:02:11 [INFO] Top agent's score in epoch 40: 42 (ID: 5ab16e54...)
+2025-06-16 19:02:11 [INFO] --- Epoch 41/100 ---
+2025-06-16 19:02:12 [INFO] Epoch complete. Top agent score: 42
+2025-06-16 19:02:12 [INFO] Selected 10 top agents for reproduction.
+2025-06-16 19:02:12 [INFO] Created 40 new agents through reproduction.
+2025-06-16 19:02:12 [INFO] Mutated current generation.
+2025-06-16 19:02:12 [INFO] Top agent's score in epoch 41: 42 (ID: 5ab16e54...)
+2025-06-16 19:02:12 [INFO] --- Epoch 42/100 ---
+2025-06-16 19:02:13 [INFO] Epoch complete. Top agent score: 42
+2025-06-16 19:02:13 [INFO] Selected 10 top agents for reproduction.
+2025-06-16 19:02:13 [INFO] Created 40 new agents through reproduction.
+2025-06-16 19:02:13 [INFO] Mutated current generation.
+2025-06-16 19:02:13 [INFO] Top agent's score in epoch 42: 42 (ID: 5ab16e54...)
+2025-06-16 19:02:13 [INFO] --- Epoch 43/100 ---
+2025-06-16 19:02:14 [INFO] Epoch complete. Top agent score: 42
+2025-06-16 19:02:14 [INFO] Selected 10 top agents for reproduction.
+2025-06-16 19:02:14 [INFO] Created 40 new agents through reproduction.
+2025-06-16 19:02:14 [INFO] Mutated current generation.
+2025-06-16 19:02:14 [INFO] Top agent's score in epoch 43: 42 (ID: 5ab16e54...)
+2025-06-16 19:02:14 [INFO] --- Epoch 44/100 ---
+2025-06-16 19:02:15 [INFO] Epoch complete. Top agent score: 44
+2025-06-16 19:02:15 [INFO] Selected 10 top agents for reproduction.
+2025-06-16 19:02:15 [INFO] Created 40 new agents through reproduction.
+2025-06-16 19:02:15 [INFO] Mutated current generation.
+2025-06-16 19:02:15 [INFO] Top agent's score in epoch 44: 44 (ID: 5ab16e54...)
+2025-06-16 19:02:15 [INFO] --- Epoch 45/100 ---
+2025-06-16 19:02:16 [INFO] Epoch complete. Top agent score: 43
+2025-06-16 19:02:16 [INFO] Selected 10 top agents for reproduction.
+2025-06-16 19:02:16 [INFO] Created 40 new agents through reproduction.
+2025-06-16 19:02:16 [INFO] Mutated current generation.
+2025-06-16 19:02:16 [INFO] Top agent's score in epoch 45: 43 (ID: 5ab16e54...)
+2025-06-16 19:02:16 [INFO] --- Epoch 46/100 ---
+2025-06-16 19:02:17 [INFO] Epoch complete. Top agent score: 42
+2025-06-16 19:02:17 [INFO] Selected 10 top agents for reproduction.
+2025-06-16 19:02:17 [INFO] Created 40 new agents through reproduction.
+2025-06-16 19:02:17 [INFO] Mutated current generation.
+2025-06-16 19:02:17 [INFO] Top agent's score in epoch 46: 42 (ID: 5ab16e54...)
+2025-06-16 19:02:17 [INFO] --- Epoch 47/100 ---
+2025-06-16 19:02:18 [INFO] Epoch complete. Top agent score: 42
+2025-06-16 19:02:18 [INFO] Selected 10 top agents for reproduction.
+2025-06-16 19:02:18 [INFO] Created 40 new agents through reproduction.
+2025-06-16 19:02:18 [INFO] Mutated current generation.
+2025-06-16 19:02:18 [INFO] Top agent's score in epoch 47: 42 (ID: 5ab16e54...)
+2025-06-16 19:02:18 [INFO] --- Epoch 48/100 ---
+2025-06-16 19:02:19 [INFO] Epoch complete. Top agent score: 42
+2025-06-16 19:02:19 [INFO] Selected 10 top agents for reproduction.
+2025-06-16 19:02:19 [INFO] Created 40 new agents through reproduction.
+2025-06-16 19:02:19 [INFO] Mutated current generation.
+2025-06-16 19:02:19 [INFO] Top agent's score in epoch 48: 42 (ID: 5ab16e54...)
+2025-06-16 19:02:19 [INFO] --- Epoch 49/100 ---
+2025-06-16 19:02:20 [INFO] Epoch complete. Top agent score: 42
+2025-06-16 19:02:20 [INFO] Selected 10 top agents for reproduction.
+2025-06-16 19:02:20 [INFO] Created 40 new agents through reproduction.
+2025-06-16 19:02:20 [INFO] Mutated current generation.
+2025-06-16 19:02:20 [INFO] Top agent's score in epoch 49: 42 (ID: 5ab16e54...)
+2025-06-16 19:02:20 [INFO] --- Epoch 50/100 ---
+2025-06-16 19:02:21 [INFO] Epoch complete. Top agent score: 42
+2025-06-16 19:02:21 [INFO] Selected 10 top agents for reproduction.
+2025-06-16 19:02:21 [INFO] Created 40 new agents through reproduction.
+2025-06-16 19:02:21 [INFO] Mutated current generation.
+2025-06-16 19:02:21 [INFO] Top agent's score in epoch 50: 42 (ID: 5ab16e54...)
+2025-06-16 19:02:21 [INFO] --- Epoch 51/100 ---
+2025-06-16 19:02:22 [INFO] Epoch complete. Top agent score: 43
+2025-06-16 19:02:22 [INFO] Selected 10 top agents for reproduction.
+2025-06-16 19:02:22 [INFO] Created 40 new agents through reproduction.
+2025-06-16 19:02:22 [INFO] Mutated current generation.
+2025-06-16 19:02:22 [INFO] Top agent's score in epoch 51: 43 (ID: 5ab16e54...)
+2025-06-16 19:02:22 [INFO] --- Epoch 52/100 ---
+2025-06-16 19:02:23 [INFO] Epoch complete. Top agent score: 43
+2025-06-16 19:02:23 [INFO] Selected 10 top agents for reproduction.
+2025-06-16 19:02:23 [INFO] Created 40 new agents through reproduction.
+2025-06-16 19:02:23 [INFO] Mutated current generation.
+2025-06-16 19:02:23 [INFO] Top agent's score in epoch 52: 43 (ID: 5ab16e54...)
+2025-06-16 19:02:23 [INFO] --- Epoch 53/100 ---
+2025-06-16 19:02:24 [INFO] Epoch complete. Top agent score: 43
+2025-06-16 19:02:24 [INFO] Selected 10 top agents for reproduction.
+2025-06-16 19:02:24 [INFO] Created 40 new agents through reproduction.
+2025-06-16 19:02:24 [INFO] Mutated current generation.
+2025-06-16 19:02:24 [INFO] Top agent's score in epoch 53: 43 (ID: 5ab16e54...)
+2025-06-16 19:02:24 [INFO] --- Epoch 54/100 ---
+2025-06-16 19:02:25 [INFO] Epoch complete. Top agent score: 43
+2025-06-16 19:02:25 [INFO] Selected 10 top agents for reproduction.
+2025-06-16 19:02:25 [INFO] Created 40 new agents through reproduction.
+2025-06-16 19:02:25 [INFO] Mutated current generation.
+2025-06-16 19:02:25 [INFO] Top agent's score in epoch 54: 43 (ID: 5ab16e54...)
+2025-06-16 19:02:25 [INFO] --- Epoch 55/100 ---
+2025-06-16 19:02:26 [INFO] Epoch complete. Top agent score: 43
+2025-06-16 19:02:26 [INFO] Selected 10 top agents for reproduction.
+2025-06-16 19:02:26 [INFO] Created 40 new agents through reproduction.
+2025-06-16 19:02:26 [INFO] Mutated current generation.
+2025-06-16 19:02:26 [INFO] Top agent's score in epoch 55: 43 (ID: 5ab16e54...)
+2025-06-16 19:02:26 [INFO] --- Epoch 56/100 ---
+2025-06-16 19:02:27 [INFO] Epoch complete. Top agent score: 43
+2025-06-16 19:02:27 [INFO] Selected 10 top agents for reproduction.
+2025-06-16 19:02:27 [INFO] Created 40 new agents through reproduction.
+2025-06-16 19:02:27 [INFO] Mutated current generation.
+2025-06-16 19:02:27 [INFO] Top agent's score in epoch 56: 43 (ID: 5ab16e54...)
+2025-06-16 19:02:27 [INFO] --- Epoch 57/100 ---
+2025-06-16 19:02:28 [INFO] Epoch complete. Top agent score: 42
+2025-06-16 19:02:28 [INFO] Selected 10 top agents for reproduction.
+2025-06-16 19:02:28 [INFO] Created 40 new agents through reproduction.
+2025-06-16 19:02:28 [INFO] Mutated current generation.
+2025-06-16 19:02:28 [INFO] Top agent's score in epoch 57: 42 (ID: 5ab16e54...)
+2025-06-16 19:02:28 [INFO] --- Epoch 58/100 ---
+2025-06-16 19:02:29 [INFO] Epoch complete. Top agent score: 44
+2025-06-16 19:02:29 [INFO] Selected 10 top agents for reproduction.
+2025-06-16 19:02:29 [INFO] Created 40 new agents through reproduction.
+2025-06-16 19:02:29 [INFO] Mutated current generation.
+2025-06-16 19:02:29 [INFO] Top agent's score in epoch 58: 44 (ID: 1963d803...)
+2025-06-16 19:02:29 [INFO] --- Epoch 59/100 ---
+2025-06-16 19:02:29 [INFO] Epoch complete. Top agent score: 44
+2025-06-16 19:02:29 [INFO] Selected 10 top agents for reproduction.
+2025-06-16 19:02:29 [INFO] Created 40 new agents through reproduction.
+2025-06-16 19:02:30 [INFO] Mutated current generation.
+2025-06-16 19:02:30 [INFO] Top agent's score in epoch 59: 44 (ID: 1963d803...)
+2025-06-16 19:02:30 [INFO] --- Epoch 60/100 ---
+2025-06-16 19:02:30 [INFO] Epoch complete. Top agent score: 44
+2025-06-16 19:02:30 [INFO] Selected 10 top agents for reproduction.
+2025-06-16 19:02:30 [INFO] Created 40 new agents through reproduction.
+2025-06-16 19:02:30 [INFO] Mutated current generation.
+2025-06-16 19:02:30 [INFO] Top agent's score in epoch 60: 44 (ID: 1963d803...)
+2025-06-16 19:02:30 [INFO] --- Epoch 61/100 ---
+2025-06-16 19:02:31 [INFO] Epoch complete. Top agent score: 44
+2025-06-16 19:02:31 [INFO] Selected 10 top agents for reproduction.
+2025-06-16 19:02:31 [INFO] Created 40 new agents through reproduction.
+2025-06-16 19:02:31 [INFO] Mutated current generation.
+2025-06-16 19:02:31 [INFO] Top agent's score in epoch 61: 44 (ID: 1963d803...)
+2025-06-16 19:02:31 [INFO] --- Epoch 62/100 ---
+2025-06-16 19:02:32 [INFO] Epoch complete. Top agent score: 44
+2025-06-16 19:02:32 [INFO] Selected 10 top agents for reproduction.
+2025-06-16 19:02:32 [INFO] Created 40 new agents through reproduction.
+2025-06-16 19:02:32 [INFO] Mutated current generation.
+2025-06-16 19:02:32 [INFO] Top agent's score in epoch 62: 44 (ID: 1963d803...)
+2025-06-16 19:02:32 [INFO] --- Epoch 63/100 ---
+2025-06-16 19:02:33 [INFO] Epoch complete. Top agent score: 46
+2025-06-16 19:02:33 [INFO] Selected 10 top agents for reproduction.
+2025-06-16 19:02:33 [INFO] Created 40 new agents through reproduction.
+2025-06-16 19:02:33 [INFO] Mutated current generation.
+2025-06-16 19:02:33 [INFO] Top agent's score in epoch 63: 46 (ID: e97ea061...)
+2025-06-16 19:02:33 [INFO] --- Epoch 64/100 ---
+2025-06-16 19:02:34 [INFO] Epoch complete. Top agent score: 43
+2025-06-16 19:02:34 [INFO] Selected 10 top agents for reproduction.
+2025-06-16 19:02:34 [INFO] Created 40 new agents through reproduction.
+2025-06-16 19:02:34 [INFO] Mutated current generation.
+2025-06-16 19:02:34 [INFO] Top agent's score in epoch 64: 43 (ID: e97ea061...)
+2025-06-16 19:02:34 [INFO] --- Epoch 65/100 ---
+2025-06-16 19:02:35 [INFO] Epoch complete. Top agent score: 44
+2025-06-16 19:02:35 [INFO] Selected 10 top agents for reproduction.
+2025-06-16 19:02:35 [INFO] Created 40 new agents through reproduction.
+2025-06-16 19:02:35 [INFO] Mutated current generation.
+2025-06-16 19:02:35 [INFO] Top agent's score in epoch 65: 44 (ID: e97ea061...)
+2025-06-16 19:02:35 [INFO] --- Epoch 66/100 ---
+2025-06-16 19:02:36 [INFO] Epoch complete. Top agent score: 44
+2025-06-16 19:02:36 [INFO] Selected 10 top agents for reproduction.
+2025-06-16 19:02:36 [INFO] Created 40 new agents through reproduction.
+2025-06-16 19:02:36 [INFO] Mutated current generation.
+2025-06-16 19:02:36 [INFO] Top agent's score in epoch 66: 44 (ID: e97ea061...)
+2025-06-16 19:02:36 [INFO] --- Epoch 67/100 ---
+2025-06-16 19:02:37 [INFO] Epoch complete. Top agent score: 44
+2025-06-16 19:02:37 [INFO] Selected 10 top agents for reproduction.
+2025-06-16 19:02:37 [INFO] Created 40 new agents through reproduction.
+2025-06-16 19:02:37 [INFO] Mutated current generation.
+2025-06-16 19:02:37 [INFO] Top agent's score in epoch 67: 44 (ID: e97ea061...)
+2025-06-16 19:02:37 [INFO] --- Epoch 68/100 ---
+2025-06-16 19:02:38 [INFO] Epoch complete. Top agent score: 42
+2025-06-16 19:02:38 [INFO] Selected 10 top agents for reproduction.
+2025-06-16 19:02:38 [INFO] Created 40 new agents through reproduction.
+2025-06-16 19:02:38 [INFO] Mutated current generation.
+2025-06-16 19:02:38 [INFO] Top agent's score in epoch 68: 42 (ID: e97ea061...)
+2025-06-16 19:02:38 [INFO] --- Epoch 69/100 ---
+2025-06-16 19:02:39 [INFO] Epoch complete. Top agent score: 42
+2025-06-16 19:02:39 [INFO] Selected 10 top agents for reproduction.
+2025-06-16 19:02:39 [INFO] Created 40 new agents through reproduction.
+2025-06-16 19:02:39 [INFO] Mutated current generation.
+2025-06-16 19:02:39 [INFO] Top agent's score in epoch 69: 42 (ID: e97ea061...)
+2025-06-16 19:02:39 [INFO] --- Epoch 70/100 ---
+2025-06-16 19:02:40 [INFO] Epoch complete. Top agent score: 42
+2025-06-16 19:02:40 [INFO] Selected 10 top agents for reproduction.
+2025-06-16 19:02:40 [INFO] Created 40 new agents through reproduction.
+2025-06-16 19:02:40 [INFO] Mutated current generation.
+2025-06-16 19:02:40 [INFO] Top agent's score in epoch 70: 42 (ID: e97ea061...)
+2025-06-16 19:02:40 [INFO] --- Epoch 71/100 ---
+2025-06-16 19:02:41 [INFO] Epoch complete. Top agent score: 42
+2025-06-16 19:02:41 [INFO] Selected 10 top agents for reproduction.
+2025-06-16 19:02:41 [INFO] Created 40 new agents through reproduction.
+2025-06-16 19:02:41 [INFO] Mutated current generation.
+2025-06-16 19:02:41 [INFO] Top agent's score in epoch 71: 42 (ID: e97ea061...)
+2025-06-16 19:02:41 [INFO] --- Epoch 72/100 ---
+2025-06-16 19:02:42 [INFO] Epoch complete. Top agent score: 44
+2025-06-16 19:02:42 [INFO] Selected 10 top agents for reproduction.
+2025-06-16 19:02:42 [INFO] Created 40 new agents through reproduction.
+2025-06-16 19:02:42 [INFO] Mutated current generation.
+2025-06-16 19:02:42 [INFO] Top agent's score in epoch 72: 44 (ID: bf657053...)
+2025-06-16 19:02:42 [INFO] --- Epoch 73/100 ---
+2025-06-16 19:02:43 [INFO] Epoch complete. Top agent score: 44
+2025-06-16 19:02:43 [INFO] Selected 10 top agents for reproduction.
+2025-06-16 19:02:43 [INFO] Created 40 new agents through reproduction.
+2025-06-16 19:02:43 [INFO] Mutated current generation.
+2025-06-16 19:02:43 [INFO] Top agent's score in epoch 73: 44 (ID: bf657053...)
+2025-06-16 19:02:43 [INFO] --- Epoch 74/100 ---
+2025-06-16 19:02:44 [INFO] Epoch complete. Top agent score: 43
+2025-06-16 19:02:44 [INFO] Selected 10 top agents for reproduction.
+2025-06-16 19:02:44 [INFO] Created 40 new agents through reproduction.
+2025-06-16 19:02:44 [INFO] Mutated current generation.
+2025-06-16 19:02:44 [INFO] Top agent's score in epoch 74: 43 (ID: bf657053...)
+2025-06-16 19:02:44 [INFO] --- Epoch 75/100 ---
+2025-06-16 19:02:45 [INFO] Epoch complete. Top agent score: 43
+2025-06-16 19:02:45 [INFO] Selected 10 top agents for reproduction.
+2025-06-16 19:02:45 [INFO] Created 40 new agents through reproduction.
+2025-06-16 19:02:45 [INFO] Mutated current generation.
+2025-06-16 19:02:45 [INFO] Top agent's score in epoch 75: 43 (ID: bf657053...)
+2025-06-16 19:02:45 [INFO] --- Epoch 76/100 ---
+2025-06-16 19:02:46 [INFO] Epoch complete. Top agent score: 43
+2025-06-16 19:02:46 [INFO] Selected 10 top agents for reproduction.
+2025-06-16 19:02:46 [INFO] Created 40 new agents through reproduction.
+2025-06-16 19:02:46 [INFO] Mutated current generation.
+2025-06-16 19:02:46 [INFO] Top agent's score in epoch 76: 43 (ID: bf657053...)
+2025-06-16 19:02:46 [INFO] --- Epoch 77/100 ---
+2025-06-16 19:02:47 [INFO] Epoch complete. Top agent score: 43
+2025-06-16 19:02:47 [INFO] Selected 10 top agents for reproduction.
+2025-06-16 19:02:47 [INFO] Created 40 new agents through reproduction.
+2025-06-16 19:02:47 [INFO] Mutated current generation.
+2025-06-16 19:02:47 [INFO] Top agent's score in epoch 77: 43 (ID: bf657053...)
+2025-06-16 19:02:47 [INFO] --- Epoch 78/100 ---
+2025-06-16 19:02:48 [INFO] Epoch complete. Top agent score: 46
+2025-06-16 19:02:48 [INFO] Selected 10 top agents for reproduction.
+2025-06-16 19:02:48 [INFO] Created 40 new agents through reproduction.
+2025-06-16 19:02:48 [INFO] Mutated current generation.
+2025-06-16 19:02:48 [INFO] Top agent's score in epoch 78: 46 (ID: bf657053...)
+2025-06-16 19:02:48 [INFO] --- Epoch 79/100 ---
+2025-06-16 19:02:49 [INFO] Epoch complete. Top agent score: 45
+2025-06-16 19:02:49 [INFO] Selected 10 top agents for reproduction.
+2025-06-16 19:02:49 [INFO] Created 40 new agents through reproduction.
+2025-06-16 19:02:49 [INFO] Mutated current generation.
+2025-06-16 19:02:49 [INFO] Top agent's score in epoch 79: 45 (ID: bf657053...)
+2025-06-16 19:02:49 [INFO] --- Epoch 80/100 ---
+2025-06-16 19:02:49 [INFO] Epoch complete. Top agent score: 45
+2025-06-16 19:02:50 [INFO] Selected 10 top agents for reproduction.
+2025-06-16 19:02:50 [INFO] Created 40 new agents through reproduction.
+2025-06-16 19:02:50 [INFO] Mutated current generation.
+2025-06-16 19:02:50 [INFO] Top agent's score in epoch 80: 45 (ID: bf657053...)
+2025-06-16 19:02:50 [INFO] --- Epoch 81/100 ---
+2025-06-16 19:02:51 [INFO] Epoch complete. Top agent score: 46
+2025-06-16 19:02:51 [INFO] Selected 10 top agents for reproduction.
+2025-06-16 19:02:51 [INFO] Created 40 new agents through reproduction.
+2025-06-16 19:02:51 [INFO] Mutated current generation.
+2025-06-16 19:02:51 [INFO] Top agent's score in epoch 81: 46 (ID: bf657053...)
+2025-06-16 19:02:51 [INFO] --- Epoch 82/100 ---
+2025-06-16 19:02:51 [INFO] Epoch complete. Top agent score: 45
+2025-06-16 19:02:51 [INFO] Selected 10 top agents for reproduction.
+2025-06-16 19:02:51 [INFO] Created 40 new agents through reproduction.
+2025-06-16 19:02:51 [INFO] Mutated current generation.
+2025-06-16 19:02:51 [INFO] Top agent's score in epoch 82: 45 (ID: bf657053...)
+2025-06-16 19:02:51 [INFO] --- Epoch 83/100 ---
+2025-06-16 19:02:52 [INFO] Epoch complete. Top agent score: 45
+2025-06-16 19:02:52 [INFO] Selected 10 top agents for reproduction.
+2025-06-16 19:02:52 [INFO] Created 40 new agents through reproduction.
+2025-06-16 19:02:52 [INFO] Mutated current generation.
+2025-06-16 19:02:52 [INFO] Top agent's score in epoch 83: 45 (ID: bf657053...)
+2025-06-16 19:02:52 [INFO] --- Epoch 84/100 ---
+2025-06-16 19:02:53 [INFO] Epoch complete. Top agent score: 43
+2025-06-16 19:02:53 [INFO] Selected 10 top agents for reproduction.
+2025-06-16 19:02:53 [INFO] Created 40 new agents through reproduction.
+2025-06-16 19:02:53 [INFO] Mutated current generation.
+2025-06-16 19:02:53 [INFO] Top agent's score in epoch 84: 43 (ID: bf657053...)
+2025-06-16 19:02:53 [INFO] --- Epoch 85/100 ---
+2025-06-16 19:02:54 [INFO] Epoch complete. Top agent score: 45
+2025-06-16 19:02:54 [INFO] Selected 10 top agents for reproduction.
+2025-06-16 19:02:54 [INFO] Created 40 new agents through reproduction.
+2025-06-16 19:02:54 [INFO] Mutated current generation.
+2025-06-16 19:02:54 [INFO] Top agent's score in epoch 85: 45 (ID: bf657053...)
+2025-06-16 19:02:54 [INFO] --- Epoch 86/100 ---
+2025-06-16 19:02:55 [INFO] Epoch complete. Top agent score: 46
+2025-06-16 19:02:55 [INFO] Selected 10 top agents for reproduction.
+2025-06-16 19:02:55 [INFO] Created 40 new agents through reproduction.
+2025-06-16 19:02:55 [INFO] Mutated current generation.
+2025-06-16 19:02:55 [INFO] Top agent's score in epoch 86: 46 (ID: bf657053...)
+2025-06-16 19:02:55 [INFO] --- Epoch 87/100 ---
+2025-06-16 19:02:56 [INFO] Epoch complete. Top agent score: 46
+2025-06-16 19:02:56 [INFO] Selected 10 top agents for reproduction.
+2025-06-16 19:02:56 [INFO] Created 40 new agents through reproduction.
+2025-06-16 19:02:56 [INFO] Mutated current generation.
+2025-06-16 19:02:56 [INFO] Top agent's score in epoch 87: 46 (ID: bf657053...)
+2025-06-16 19:02:56 [INFO] --- Epoch 88/100 ---
+2025-06-16 19:02:57 [INFO] Epoch complete. Top agent score: 46
+2025-06-16 19:02:57 [INFO] Selected 10 top agents for reproduction.
+2025-06-16 19:02:57 [INFO] Created 40 new agents through reproduction.
+2025-06-16 19:02:57 [INFO] Mutated current generation.
+2025-06-16 19:02:57 [INFO] Top agent's score in epoch 88: 46 (ID: bf657053...)
+2025-06-16 19:02:57 [INFO] --- Epoch 89/100 ---
+2025-06-16 19:02:58 [INFO] Epoch complete. Top agent score: 46
+2025-06-16 19:02:58 [INFO] Selected 10 top agents for reproduction.
+2025-06-16 19:02:58 [INFO] Created 40 new agents through reproduction.
+2025-06-16 19:02:58 [INFO] Mutated current generation.
+2025-06-16 19:02:58 [INFO] Top agent's score in epoch 89: 46 (ID: bf657053...)
+2025-06-16 19:02:58 [INFO] --- Epoch 90/100 ---
+2025-06-16 19:02:59 [INFO] Epoch complete. Top agent score: 46
+2025-06-16 19:02:59 [INFO] Selected 10 top agents for reproduction.
+2025-06-16 19:02:59 [INFO] Created 40 new agents through reproduction.
+2025-06-16 19:02:59 [INFO] Mutated current generation.
+2025-06-16 19:02:59 [INFO] Top agent's score in epoch 90: 46 (ID: bf657053...)
+2025-06-16 19:02:59 [INFO] --- Epoch 91/100 ---
+2025-06-16 19:03:00 [INFO] Epoch complete. Top agent score: 46
+2025-06-16 19:03:00 [INFO] Selected 10 top agents for reproduction.
+2025-06-16 19:03:00 [INFO] Created 40 new agents through reproduction.
+2025-06-16 19:03:00 [INFO] Mutated current generation.
+2025-06-16 19:03:00 [INFO] Top agent's score in epoch 91: 46 (ID: bf657053...)
+2025-06-16 19:03:00 [INFO] --- Epoch 92/100 ---
+2025-06-16 19:03:01 [INFO] Epoch complete. Top agent score: 46
+2025-06-16 19:03:01 [INFO] Selected 10 top agents for reproduction.
+2025-06-16 19:03:01 [INFO] Created 40 new agents through reproduction.
+2025-06-16 19:03:01 [INFO] Mutated current generation.
+2025-06-16 19:03:01 [INFO] Top agent's score in epoch 92: 46 (ID: bf657053...)
+2025-06-16 19:03:01 [INFO] --- Epoch 93/100 ---
+2025-06-16 19:03:02 [INFO] Epoch complete. Top agent score: 45
+2025-06-16 19:03:02 [INFO] Selected 10 top agents for reproduction.
+2025-06-16 19:03:02 [INFO] Created 40 new agents through reproduction.
+2025-06-16 19:03:02 [INFO] Mutated current generation.
+2025-06-16 19:03:02 [INFO] Top agent's score in epoch 93: 45 (ID: bf657053...)
+2025-06-16 19:03:02 [INFO] --- Epoch 94/100 ---
+2025-06-16 19:03:03 [INFO] Epoch complete. Top agent score: 45
+2025-06-16 19:03:03 [INFO] Selected 10 top agents for reproduction.
+2025-06-16 19:03:03 [INFO] Created 40 new agents through reproduction.
+2025-06-16 19:03:03 [INFO] Mutated current generation.
+2025-06-16 19:03:03 [INFO] Top agent's score in epoch 94: 45 (ID: bf657053...)
+2025-06-16 19:03:03 [INFO] --- Epoch 95/100 ---
+2025-06-16 19:03:04 [INFO] Epoch complete. Top agent score: 45
+2025-06-16 19:03:04 [INFO] Selected 10 top agents for reproduction.
+2025-06-16 19:03:04 [INFO] Created 40 new agents through reproduction.
+2025-06-16 19:03:04 [INFO] Mutated current generation.
+2025-06-16 19:03:04 [INFO] Top agent's score in epoch 95: 45 (ID: bf657053...)
+2025-06-16 19:03:04 [INFO] --- Epoch 96/100 ---
+2025-06-16 19:03:05 [INFO] Epoch complete. Top agent score: 45
+2025-06-16 19:03:05 [INFO] Selected 10 top agents for reproduction.
+2025-06-16 19:03:05 [INFO] Created 40 new agents through reproduction.
+2025-06-16 19:03:05 [INFO] Mutated current generation.
+2025-06-16 19:03:05 [INFO] Top agent's score in epoch 96: 45 (ID: bf657053...)
+2025-06-16 19:03:05 [INFO] --- Epoch 97/100 ---
+2025-06-16 19:03:06 [INFO] Epoch complete. Top agent score: 45
+2025-06-16 19:03:06 [INFO] Selected 10 top agents for reproduction.
+2025-06-16 19:03:06 [INFO] Created 40 new agents through reproduction.
+2025-06-16 19:03:06 [INFO] Mutated current generation.
+2025-06-16 19:03:06 [INFO] Top agent's score in epoch 97: 45 (ID: bf657053...)
+2025-06-16 19:03:06 [INFO] --- Epoch 98/100 ---
+2025-06-16 19:03:07 [INFO] Epoch complete. Top agent score: 44
+2025-06-16 19:03:07 [INFO] Selected 10 top agents for reproduction.
+2025-06-16 19:03:07 [INFO] Created 40 new agents through reproduction.
+2025-06-16 19:03:07 [INFO] Mutated current generation.
+2025-06-16 19:03:07 [INFO] Top agent's score in epoch 98: 44 (ID: bf657053...)
+2025-06-16 19:03:07 [INFO] --- Epoch 99/100 ---
+2025-06-16 19:03:08 [INFO] Epoch complete. Top agent score: 44
+2025-06-16 19:03:08 [INFO] Selected 10 top agents for reproduction.
+2025-06-16 19:03:08 [INFO] Created 40 new agents through reproduction.
+2025-06-16 19:03:08 [INFO] Mutated current generation.
+2025-06-16 19:03:08 [INFO] Top agent's score in epoch 99: 44 (ID: bf657053...)
+2025-06-16 19:03:08 [INFO] --- Epoch 100/100 ---
+2025-06-16 19:03:09 [INFO] Epoch complete. Top agent score: 44
+2025-06-16 19:03:09 [INFO] Selected 10 top agents for reproduction.
+2025-06-16 19:03:09 [INFO] Created 40 new agents through reproduction.
+2025-06-16 19:03:09 [INFO] Mutated current generation.
+2025-06-16 19:03:09 [INFO] Top agent's score in epoch 100: 44 (ID: bf657053...)
+2025-06-16 19:03:09 [INFO] --- Simulation Complete ---
+2025-06-16 19:03:09 [INFO] Best performing agent (ID: bf657053-a860-4823-b3d9-60f6d989e4c1) has a final score of 44.
+2025-06-16 19:03:09 [INFO] Generating extensive behavior samples from the best agent for analysis...
+2025-06-16 19:03:09 [INFO] Training Decision Tree to approximate Neural Network behavior...
+2025-06-16 19:03:09 [INFO] Decision Tree training complete.
+2025-06-16 19:03:09 [INFO] Extracting rules from the Decision Tree...
+2025-06-16 19:03:09 [INFO] --- Decision Tree Rules Extracted from Best Agent's Behavior ---
+|--- Iter_8_My_DC <= 0.50
+|   |--- class: 0
+|--- Iter_8_My_DC >  0.50
+|   |--- Iter_2_My_DC <= 0.50
+|   |   |--- Iter_4_My_DD <= 0.50
+|   |   |   |--- Iter_9_My_DC <= 0.50
+|   |   |   |   |--- class: 1
+|   |   |   |--- Iter_9_My_DC >  0.50
+|   |   |   |   |--- class: 0
+|   |   |--- Iter_4_My_DD >  0.50
+|   |   |   |--- class: 0
+|   |--- Iter_2_My_DC >  0.50
+|   |   |--- class: 0
+
+2025-06-16 19:03:13 [INFO] --- LLM Explanation of Best Agent's Behavior ---
+The optimized agent appears to have learned a **reactive, conditionally cooperative strategy, heavily influenced by its own past behavior.** Here's a breakdown:
+
+*   **Focus on Recent History:** The most important features in the decision tree are `Iter_8_My_DC` and `Iter_2_My_DC`. This highlights that the agent prioritizes relatively recent interactions to make decisions, suggesting a memory that decays quickly.  The agent cares little about the starting interactions.
+*   **Initial Defection Based on Cooperation:** The first split on `Iter_8_My_DC` indicates that the agent *defaults to defection* (class 0) unless it cooperated in the second-to-last round (round 8). This suggests that the agent is willing to defect unless it felt that it had cooperated in recent rounds.
+*   **Reciprocal Altruism with a Delay:** If the agent cooperated in iteration 8, it then checks if it cooperated in iteration 2. If not, and the enemy did not defect in iteration 4 (Iter_4_My_DD <= 0.5), the agent cooperates in iteration 9. This suggests an attempt at reciprocal altruism, where the agent cooperates with enemies that did not defect in the past.
+*   **Opportunistic Exploitation:** If the agent cooperated in Iteration 8, but also cooperated early in Iteration 2, it immediately defects. It appears that the agent tries to take advantage of the enemy if it sees a chance.
+*   **Avoids Being a "Sucker":** It immediately defects if it cooperated in iteration 2 but the enemy defected in iteration 4.
+*   **Defect as a Default:** After the initial split on `Iter_8_My_DC`, the decision tree predominantly branches to defection. This likely arises from the adversarial environment, where pure cooperation is easily exploited.
+
+**In summary, the agent's strategy could be characterized as a delayed "Tit-for-Tat" variant with opportunistic exploitation and a bias towards defection as a safe default. It begins with defection and only cooperates if it has recently cooperated itself and the enemy has not defected.** This nuanced approach likely allows it to gain an edge in the adversarial tournament by leveraging cooperation when safe and exploiting vulnerabilities when present.
+
