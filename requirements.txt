@@ -1,0 +1,5 @@
+numpy
+scikit-learn
+torch
+# Optional for LLM explanations
+google-generativeai
